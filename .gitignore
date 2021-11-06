@@ -1,0 +1,22 @@
+*.pic
+*.p
+*.old
+*.old2
+*.cpp
+*.dll
+__pycache__*
+archivedModels
+Audio results
+binary_fl16_models
+binary_int_quant_deploy_space
+binary_lite_models/
+binary_models/
+data/mini_speech_commands
+data/mini_speech_commands.zip
+data/__MACOSX
+Images
+lite_models_old
+models_old
+type_lite_models
+type_models
+
