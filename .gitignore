@@ -3,6 +3,7 @@
 *.old
 *.old2
 *.cpp
+*.cc
 *.dll
 __pycache__*
 archivedModels
